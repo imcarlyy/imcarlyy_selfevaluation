@@ -1,0 +1,161 @@
+---
+title: "imcarlyy_selfevaaluation"
+author: "Carla Rojas"
+output: html_document
+date: "2025-05-06"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+***
+
+### [Course Overview](https://fuzzyatelin.github.io/bioanth-stats/overview.html)
+### [Course Outline](https://fuzzyatelin.github.io/bioanth-stats/outline.html)
+### [Modules](https://fuzzyatelin.github.io/bioanth-stats/modules.html)
+### [Assignments](https://fuzzyatelin.github.io/bioanth-stats/assignments.html)
+### [Resources](https://fuzzyatelin.github.io/bioanth-stats/resources.html)
+### [Policies](https://fuzzyatelin.github.io/bioanth-stats/policies.html)
+### [Insurmountable Coding Problems](https://fuzzyatelin.github.io/bioanth-stats/studentproblems.html)
+
+***
+
+<center>
+
+<font size="+2"><b>Exclusively on AMC-BU: The walking Carly: Season 1</b></font></center><br>
+
+<center><p><img src="https://www.out.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vbWVkaWEudGVub3IuY29tL1NsY2c0WFp2aUFVQUFBQUMvZGVhZC1zdGF0dXMtdXBkYXRlLmdpZiIsImV4cGlyZXNfYXQiOjE3NzM4NzM0ODl9.4g-CnKKAyJWrES-aW2FKLLz-UGL-yqUXNwj1O_7dgd8/image.gif?=undefined&quality=85" style="border:5px solid black"></p>
+</center><br>  
+
+<center>
+This class definitely taught me about having patience when I'm loosing my patience otherwise the code won't work, and I will DEFINITELY LOOSE MY PATIENCE! Hahaha. Moreover, it taught me about paying more attention to the details as that would define if a code ran or not. A last thing that I would recall would also be about keeping clear notes to go back to them and fully understand how to do an assignment or run a code that I had ran in the past. 
+<br><br>
+
+</center>
+***
+
+## Instructions
+
+***
+
+Please download this Markdown file (`selfevaluation.Rmd`) from my GitHub site (in the `fuzzyatelin.github.io/bioanth-stats/` folder) and answer the appropriate questions in the spaces provided. Once you've knitted the final file, please send the **html** version of that file to me with the name `[LastF]_S25_SelfEvaluation.html` (with `LastF` meaning your last name followed by your first initial, i.e., mine would be called `SchmittC_S25_SelfEvaluation.html`) via [this link](https://drive.google.com/drive/folders/1VpufYbN9ygRtvlXVm_wdqt8mZU-ychHX?usp=share_link). I must receive this file by **May 1, 2025** at the earliest, and by the **Final Exam Date (May 6, 2025)** at the latest.
+
+***
+
+### Overall Impression
+
+***
+
+In place of my name as author on this Markdown file, please insert your own, along with the date on which you completed this self-assessment. In place of the RuPaul GIF, above, please choose a GIF of a drag queen that best exemplifies your overall feelings about what you learned/accomplished in this course. Additionally, replace the `The following self evaluation...` text below your GIF with a three sentence summary of your experience in the class and what you take away from it to accompany that GIF. You may also choose a catchy title.
+
+***
+
+### What were you asked to do?
+
+***
+
+Please give me a bulleted/numbered list of each task you were asked to do for this course. Where relevant, please also link the *html* version of the file representing each task, in your own repos, to the bulleted entry for that task.<br><br><br><br><br><br>
+
+Tasks/assignments that were under my responsibility: 
+1. Homework 1: Push it 
+2. Homework 2: Titis in the Mist...
+3. Homework 3: Some of my Best Friends are Zombies...
+4. Homework 4: What's your malfunction? 
+5. Homework 5: Boots for Days! 
+6. The peer commentary for all those homework assignments
+7. Analysis Replication Assignment
+8. Group presentation (survival analysis). 
+9. Self-evaluation
+
+***
+
+### What did you accomplish?
+
+***
+
+Please let me know how many of the above tasks you accomplished. If any of them were accomplished later than stipulated, please note that. If you contacted me about them being late (and we discussed it and I said it was ok), please note that, too. You may provide a bulleted/numbered list matching the one above.<br><br><br><br><br><br>
+
+All of them! On the first homework assignment, a few of us in the class had issues with R so you gave us permission to turn it in later; the second homework I told you that I needed a coupld more days because of my sisters' situation and you approved it; and the third one was due at the same time as the AABA conference, so you said it was okay to turn it in after the conference. 
+
+***
+
+### How well did you accomplish them?
+
+***
+
+Please let me know how well you feel you accomplished your tasks, in a general sense. What do you feel you did the best, and what did you do the least well? What was the hardest part for you? Did your work/understanding/ease improve over the course of the semester?<br><br><br><br><br><br>
+
+In a general sense, I think I did well. I think it wasn't easy because I did notice the language barrier a lot during this course. I had been exposed to R before, so that definitely helped to make this process a little bit smoother, but I did feel sometimes that I was learning a new coding language WHILE learning new words in english. It was overwhelming, until I got the hang of it. 
+
+It definitely improved. I think that what helped me was to create my own notes of each class and of the homeworks I completed. Those things made going back to remember what I was doing, much easier for me! 
+
+***
+
+### How has your understanding of and approach to statistics and project design changed since taking this course?
+
+***
+
+This may be in relation to previous knowledge, or in relation to future/planned work.<br><br><br><br><br><br><br><br>
+
+I think I definitely have more knowledge of stats and R compared to how I started. I know this is also a lot of practice, and I'm aware that not doing it constantly will lead me to forget what I've learned. Despite this, I do believe that my skills in R and in understanding it's language in another language is something that I cherish a lot. 
+
+I do plan to keep studying more about stats. It's a hard course, but if done properly and with a lot of time (and patience), I think I could master a valuable skill. 
+
+***
+
+### What did you learn from all this?
+
+***
+
+Please name at least three things you feel you learned in this course.<br><br><br><br><br><br><br><br>
+
+1. This one might seem funny, but I think that what I feel proud of is being able to clone a peers' code into R and push it to their GitHub. I know some of my peers just created a new document and copied the code into it instead of pulling someone else's files because it would be hard when they tried to push it. However, in my case, after many attempts, I finally got the hang of it, and I clone them with ease (and 'm really proud of myself for that!). 
+
+2. I also learned a lot when we took the course on exploratory data analysis. More specifically, I think re-learning about how to make the plots (boxplot, barplot, scatterplot, etc.) was great because it was something that I had forgotten about, and that I believe I will need for future projects in my career. I also think that learning about the difference of each was great; the material didn't feel like I was just learning how to make a plot. It was about understanding the meaning behind them as well. 
+
+3. I learned a lot about the type 1 and 2 erros and the code behind it. I think that it is challenging to understand how to run this code without having notes (as a beginner), but still, I learned their difference in theory and when coding them in R to show results.
+
+***
+
+### What did your learn about teamwork in this course? How did the readings on teamwork foster this understanding? How did the teamwork experiences?
+
+***
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+I think that the readings on teamwork fostered a sense of community in the class. I liked feeling like overall, all my peers were understanding when I asked them to teach me how to do things I didn't know/understood. I also learned a lot more about being patient and understanding as others are at different levels of understanding/knowledge in stats. I think that one thing that I would change next time would be a little more pushy when asking for the commentarys' feedback on time, but overall, I think I had a good experience. 
+
+***
+
+### How did the Peer Commentary process and Group Project relate, if at all, to what you view as your successes or difficulties in this course?
+
+***
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+I think that it helped to either correct some of my mistakes, or to feel proud of what I was doing (when getting congratuated for my coding)! 
+***
+
+### What, if anything, of lasting value do you take away from this experience? If nothing, what would you do differently if you were to start over in this course? 
+
+***
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+I think I would definitely start studying more about R/coding language before beginning this class, if I were to do this all over again. This was (and still is but not as much as before) a very time-consuming thing when trying to understand the class and the assignments. I felt constantly like I was doing double or triple the work in comparison with other students (plus dealing with everything that being on my first semester at BU brought). 
+
+***
+
+### Taking this self-assessment into account (and with **A** being the highest), if you were the instructor, what grade would you give yourself given your evaluation of your own performance this semester? Please be honest.
+
+***
+
+<br><center>[insert letter grade here]</center><br>
+
+I would give myself an A. 
+***
+
+
+
+
